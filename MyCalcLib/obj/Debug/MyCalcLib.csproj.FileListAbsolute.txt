@@ -1,0 +1,6 @@
+D:\подготовка к демо\Airlines3\MyCalcLib\bin\Debug\MyCalcLib.dll
+D:\подготовка к демо\Airlines3\MyCalcLib\bin\Debug\MyCalcLib.pdb
+D:\подготовка к демо\Airlines3\MyCalcLib\obj\Debug\MyCalcLib.csprojAssemblyReference.cache
+D:\подготовка к демо\Airlines3\MyCalcLib\obj\Debug\MyCalcLib.csproj.CoreCompileInputs.cache
+D:\подготовка к демо\Airlines3\MyCalcLib\obj\Debug\MyCalcLib.dll
+D:\подготовка к демо\Airlines3\MyCalcLib\obj\Debug\MyCalcLib.pdb
